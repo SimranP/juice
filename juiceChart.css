@@ -1,0 +1,7 @@
+.popularity_chart{
+  display: inline block;
+}
+.item{
+  margin: 1px;
+  background-color: lightseagreen;
+}
