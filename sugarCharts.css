@@ -1,0 +1,8 @@
+#chart svg {
+  margin: 50px;
+}
+
+.fruit{
+  display: inline-block;
+  font-size: 20px;
+}
